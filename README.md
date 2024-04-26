@@ -6,7 +6,7 @@ Este é um projeto simples em JavaScript que implementa um minigame de adivinha�
 
 O jogo funciona da seguinte maneira:
 
-1. O computador gera um número aleatório entre 1 e 100, que é o número secreto.
+1. O computador gera um número aleatório entre 1 e 50, que é o número secreto.
 2. O jogador tenta adivinhar o número secreto digitando um número.
 3. O jogo fornece feedback se o número digitado é maior, menor ou igual ao número secreto.
 4. O jogador continua tentando até adivinhar corretamente o número secreto.
