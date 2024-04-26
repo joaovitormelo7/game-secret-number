@@ -1,5 +1,5 @@
 let listaNumSorteado = [];
-let numeroLimite = 10;
+let numeroLimite = 100;
 let numeroSecreto = gerarNumero();
 let tentativas = 1;
 
@@ -11,13 +11,13 @@ function exibirTextoTela(tag, texto){
 
 function exibirMensagemInic(){
     exibirTextoTela('h1', 'Jogo do numero secreto');
-    exibirTextoTela('p', 'Escolha um numero entre 1 e 10');
+    exibirTextoTela('p', 'Escolha um numero entre 1 e 100');
 }
 
 exibirMensagemInic();
 
 exibirTextoTela('h1', 'Jogo do numero secreto');
-exibirTextoTela('p', 'Escolha um numero entre 1 e 10');
+exibirTextoTela('p', 'Escolha um numero entre 1 e 100');
 
 function verificarChute(){
     let shoot = document.querySelector('input').value;
