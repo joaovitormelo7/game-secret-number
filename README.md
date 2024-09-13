@@ -15,3 +15,5 @@ O jogo funciona da seguinte maneira:
 ## Objetivo 
 
 O objetivo desse jogo foi treinar minha lógica com o JavaScript, trabalhando com funções, listas, como funciona para gerar um número aleatório cada jogada sem repetir.
+
+![GifJogoNumeroSecreto](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG40eTlmajVqaThtOHYzNzNlM3BxeGp5Yzd1MGd0MTNkaXB2dmp1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B000aVh8AhU9Rygf88/giphy.gif)
