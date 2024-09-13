@@ -1,8 +1,8 @@
-# Jogo de Adivinhação do Número Secreto 
+# Jogo de Adivinhação do Número Secreto 💡
 
 Este é um projeto simples em JavaScript que implementa um minigame de adivinhação de números. O objetivo do jogo é tentar adivinhar o número secreto gerado pelo computador.
 
-## Funcionamento
+## Funcionamento 🔌
 
 O jogo funciona da seguinte maneira:
 
@@ -12,7 +12,7 @@ O jogo funciona da seguinte maneira:
 4. O jogador continua tentando até adivinhar corretamente o número secreto.
 5. E também irá mostrar quantas tentativas o usuário gastou para tentar advinhar o número secreto
 
-## Objetivo 
+## Objetivo 🏎️
 
 O objetivo desse jogo foi treinar minha lógica com o JavaScript, trabalhando com funções, listas, como funciona para gerar um número aleatório cada jogada sem repetir.
 
